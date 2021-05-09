@@ -85,12 +85,10 @@ body {
   font-size: 1rem;
   word-spacing: 0.5rem;
   float: left;
-  margin-top: 5px;
 }
 .team-member__name {
   font-size: 1.4rem;
   font-weight: 600;
-  margin-left: 5px;
 }
 /* END Main */
 
