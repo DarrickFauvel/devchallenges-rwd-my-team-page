@@ -36,28 +36,36 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+<table>
+   <tr>
+      <th>Desktop view</th>
+      <th>Mobile view</th>
+   </tr>
+   <tr>
+      <td>
+         <img src="https://github.com/DarrickFauvel/devchallenges-rwd-my-team-page/blob/main/screenshot-desktop.png" width="500px" />
+      </td>
+      <td>
+         <img src="https://github.com/DarrickFauvel/devchallenges-rwd-my-team-page/blob/main/screenshot-mobile.png" width="200px" />
+      </td>
+   </tr>
+</table>
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+This project was an exercise in duplicating a "team page" from a Figma design file, using only HTML & CSS techniques.
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+- You can see the <a href="https://darrickfauvel.github.io/devchallenges-rwd-my-team-page/" target="_blank">project demo here</a>.
+- Hand coded by me with no copied solution code.
+- Developed using a mobile-first approach and applying a media query for the three-column desktop view.
+- All fonts, paddings, and margins converted from px to responsive rem/em units.
+- CSS Grid was used for the layout.
+- Added image focus/hover state.
+- Used text-orientation to rotate the team member's job title. Apparently some browsers still render ugly text when rotated. Yuck!
 
 ### Built With
 
-<!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
-
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
-
-## Features
-
-<!-- List the features of your application or follow the template. Don't share the figma file here :) -->
-
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U) was to build an application to complete the given user stories.
+- HTML
+- CSS
+- VS Code
 
 ## Acknowledgements
 
