@@ -67,8 +67,16 @@ body {
   max-width: 140px;
 }
 .team-member__image img {
+  border: 5px inset transparent;
   width: 100%;
   float: left;
+  transition: all 0.5s;
+}
+.team-member img:focus,
+.team-member img:hover {
+  border: 5px inset rgb(49, 49, 49);
+  cursor: pointer;
+  filter: brightness(130%);
 }
 .team-member__title {
   writing-mode: vertical-rl;
@@ -79,10 +87,12 @@ body {
   font-size: 1rem;
   word-spacing: 0.5rem;
   float: left;
+  margin-top: 5px;
 }
 .team-member__name {
   font-size: 1.4rem;
   font-weight: 600;
+  margin-left: 5px;
 }
 /* END Main */
 
