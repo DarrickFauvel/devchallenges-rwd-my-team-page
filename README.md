@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">My Team Page | devChallenges.io</h1>
+<h1 align="center">Team Page challenge | devChallenges.io</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">devChallenges.io</a>.
@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://darrickfauvel.github.io/devchallenges-rwd-my-team-page/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/DarrickFauvel/devchallenges-rwd-my-team-page">
       Solution
     </a>
     <span> | </span>
