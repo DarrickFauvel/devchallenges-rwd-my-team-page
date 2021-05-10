@@ -8,15 +8,15 @@
 
 <div align="center">
   <h3>
-    <a href="https://darrickfauvel.github.io/devchallenges-rwd-my-team-page/">
+    <a href="https://darrickfauvel.github.io/devchallenges-rwd-my-team-page/" target="_blank">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/DarrickFauvel/devchallenges-rwd-my-team-page">
+    <a href="https://github.com/DarrickFauvel/devchallenges-rwd-my-team-page" target="_blank">
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U">
+    <a href="https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U" target="_blank">
       Challenge
     </a>
   </h3>
